@@ -46,7 +46,8 @@ Template:    abraham
 }
 
 img.custom-logo {
-	max-height: 150px;
+	max-height: 54px;
+	width: auto;
 }
 
 .home .site-content {
