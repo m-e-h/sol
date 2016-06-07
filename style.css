@@ -60,3 +60,18 @@ img.custom-logo {
         visibility: hidden;
     }
 }
+
+.widget li {
+	width: 100%;
+	max-width: 100% !important;
+}
+
+.article-hero {
+	min-height: 300px;
+}
+
+@media screen and (min-width: 48em) {
+	.article-hero {
+		min-height: 450px;
+	}
+}
